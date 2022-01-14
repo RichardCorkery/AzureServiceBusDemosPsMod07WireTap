@@ -1,4 +1,4 @@
-# azure-service-bus-demos-ps-mod7-wire-tap
+# AzureServiceBusDemosPsMod07WireTap
 
 ## Demos of Azure Service Bus: Wire Tap from Pluralsight Class Azure Service Bus in Depth Module 7
 
